@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-👋 Hello, I'm [Omer]!
-
-![skullat](https://avatars.githubusercontent.com/u/81094346?v=4)
+👋 Hello, I'm Omer!
 
 I'm a Cybersecurity Researcher, passionate about cyber security. Welcome to my GitHub repository, where you can explore my projects and get to know me better.
 
